@@ -1,1 +1,3 @@
-# clase02-2bim
+# clase02-2bim}
+
+![alt text](image.png)
